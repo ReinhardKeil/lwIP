@@ -63,11 +63,6 @@ List of software components that are not defined in this pack
 ```
 <none>
 ```
-**API Interface Header Files**
-
-```
-<none>
-```
 
 **Configuration Files**
 
